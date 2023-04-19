@@ -5,7 +5,7 @@
 </template>
 <script>
 // @ is an alias to /src
-import CvPage from '../components/CvPage.vue'
+import CvPage from '@/components/CvPage.vue'
 
 export default {
   name: 'HomeView',

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!--| ABOUT |--------------------------------------------------->
+
     <section id="about" class="container">
       <img
         src="../assets/img/proflie.jpg"
@@ -25,7 +25,7 @@
       </p>
     </section>
 
-    <!-- EXPERIENCE --------------------------------------------->
+    
     <section id="experience" class="container">
       <h1>Experience</h1>
       <div class="card">
@@ -64,7 +64,7 @@
       </div>
     </section>
 
-    <!-- CONTACT ----------------------------------------------------->
+    
 
     <section class="container" id="contact">
       <h1>Contact</h1>
